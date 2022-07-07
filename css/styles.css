@@ -1,0 +1,151 @@
+#title {
+  background-color: #ff4c68;
+}
+#features {
+  padding: 12% 7%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+#testimonials {
+  background-color: #ef8172;
+
+  text-align: center;
+}
+#press {
+  background-color: #ef8172;
+  padding: 5% 7%;
+  text-align: center;
+}
+#pricing {
+  text-align: center;
+  padding: 7% 7% 12% 7%;
+}
+#cta {
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+  padding: 2rem 2rem;
+}
+#footer {
+  /* background-color: #ff4c68; */
+  text-align: center;
+  padding: 2rem 0 1rem 0;
+}
+/* call to action */
+.cta-h3 {
+  padding: 3% 15% 3% 15%;
+  font-size: 3rem;
+  font-weight: 900;
+}
+.cta-butn {
+  margin: 1%;
+}
+.copyright {
+  color: rgb(30, 30, 30);
+  padding: 1rem 0;
+}
+/* testimonials */
+.testimonial-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  padding: 0 7rem 0 7rem;
+  color: white;
+  line-height: 2;
+}
+.carousel-item {
+  padding: 12% 7%;
+}
+.dog-img {
+  margin: 1rem;
+  height: 12%;
+  width: 12%;
+  border-radius: 100%;
+}
+.testimonial-image {
+  margin: 1rem;
+  height: 12%;
+  width: 12%;
+  border-radius: 100%;
+}
+.brand-img {
+  margin: 0 10px 0 10px;
+}
+/* pricing */
+
+body {
+  font-family: "Montserrat";
+}
+.pricing-heading {
+  padding-bottom: 2rem;
+}
+.font {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h3 {
+  font-weight: 900;
+}
+p {
+  color: grey;
+}
+.pricing-para {
+  font-size: 1.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-size: 300%;
+}
+.nav-item {
+  padding: 0px 18px;
+  font-size: 1.25rem;
+}
+.container-fluid {
+  padding: 1.5% 15% 17% 15%;
+}
+.navbar {
+  margin-bottom: 70px;
+}
+.phone-image {
+  transform: rotate(20deg);
+  position: absolute;
+  right: 23%;
+}
+.col-lg-6 {
+  padding-top: 20px;
+}
+.Download-button {
+  margin: 5% 3% 5% 0%;
+}
+.feature-class {
+}
+.middle-box {
+  text-align: center;
+  padding: 2rem 5rem 2rem 5rem;
+}
+.icon {
+  color: #ef8172;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+@media (max-width: 1080px) {
+  .phone-image {
+    position: static;
+    transform: rotate(0);
+  }
+  .container-fluid {
+    padding: 1.5% 15% 15% 15%;
+  }
+  #title {
+    text-align: center;
+  }
+}
+.social-icon {
+  margin: 1rem;
+}
